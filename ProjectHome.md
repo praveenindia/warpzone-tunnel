@@ -1,0 +1,1 @@
+A universal tunneling framework written in Python 2. Allows you to transport arbitrary data over several protocols, including TCP, UDP, HTTP, DNS and ICMP. The end users can interface with the data as Standard I/O or as a TUNTAP network interface.
